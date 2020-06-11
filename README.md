@@ -10,3 +10,5 @@ if the patient suffers from brain tumor or not.</p>
 <p>The dataset folder has been divided into training and test set folders which is further divided into yes or no folders.</p>
 <p>Single prediction folder contains single images of brain scans that are used to validate whether the model can predict correctly or not.</p>
 <p>convolution_neural_network.py contains the main CNN code for classifying the MRI scan,this model has validation accuracy between 77%-85%</p>
+
+ ![](tumor.PNG)
