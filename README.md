@@ -2,7 +2,7 @@
 I have made a CNN model to classify whether the MRI brain scan has tumor or not.
 <h1>AIM</h1>
 <p>The main aim of this project is to use CNN model and then classify whether a particular MRI scan has tumor or not.</p>
-<p>Since tumor is very to be seen via naked eyes.I thought building and training a CNN model would be an easy solution to identify 
+<p>Since tumor is very difficult to be seen via naked eyes.I thought building and training a CNN model would be an easy solution to identify 
 if the patient suffers from brain tumor or not.</p>
 <h1>DATASET</h1>
 <p>I have used the dataset available on <a href="https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection">kaggle</a></p>
