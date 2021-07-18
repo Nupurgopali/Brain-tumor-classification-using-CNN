@@ -10,4 +10,4 @@ I have made a CNN model to classify whether the MRI brain scan has tumor or not.
 <p>Single prediction folder contains single images of brain scans that are used to validate whether the model can predict correctly or not.</p>
 <p>convolution_neural_network.py contains the main CNN code for classifying the MRI scan,this model has validation accuracy between 77%-85%</p>
 
- ![](accuracy.PNG)
+ 
